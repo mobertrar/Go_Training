@@ -11,3 +11,7 @@ func main() {
 	zero(&x)
 	fmt.Println(x) //x is 0
 }
+
+//the operator is the ampersand
+//operators work on operands
+//example the operator 

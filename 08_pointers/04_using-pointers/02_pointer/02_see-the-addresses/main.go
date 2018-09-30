@@ -13,3 +13,6 @@ func main() {
 	zero(&x)
 	fmt.Println(x) //x is 0
 }
+
+//we're proving that we passed the memory address 
+//zero(&x)
