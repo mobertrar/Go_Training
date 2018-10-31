@@ -3,13 +3,13 @@ package main
 import "fmt"
 
 func main() {
-	a := 10
-	b := "golang"
-	c := 4.17
-	d := true
-	e := "Hello"
-	f := `Do you like my hat?`
-	g := 'M'
+	a := 10 //int
+	b := "golang" //string
+	c := 4.17 //float
+	d := true //boolean
+	e := "Hello" //string
+	f := `Do you like my hat?` //string
+	g := 'M' //int
 
 	fmt.Printf("%T \n", a)
 	fmt.Printf("%T \n", b)

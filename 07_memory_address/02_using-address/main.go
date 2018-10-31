@@ -9,6 +9,6 @@ func main() {
 	fmt.Print("Enter meters swam:")
 	fmt.Scan(&meters)
 	yards := meters * metersToYards
-	fmt.Println(meters, "meter is", yards, "yards.")
+	fmt.Println(meters, "meters is", yards, "yards.")
 
 }
